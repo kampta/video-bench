@@ -1,0 +1,232 @@
+package,version,declared_license,project_url,metadata_url,distribution_source,text_sections
+absl-py,2.5.1,Apache-2.0,https://github.com/abseil/abseil-py,https://pypi.org/pypi/absl-py/2.5.1/json,https://pypi.org/simple,001;002
+accelerate,1.15.0,Apache,https://github.com/huggingface/accelerate,https://pypi.org/pypi/accelerate/1.15.0/json,https://pypi.org/simple,002
+aiofiles,25.1.0,Apache-2.0,https://github.com/Tinche/aiofiles,https://pypi.org/pypi/aiofiles/25.1.0/json,https://pypi.org/simple,003;004
+aiohappyeyeballs,2.7.1,PSF-2.0,https://github.com/aio-libs/aiohappyeyeballs,https://pypi.org/pypi/aiohappyeyeballs/2.7.1/json,https://pypi.org/simple,005
+aiohttp,3.14.5,Apache-2.0 AND MIT,https://github.com/aio-libs/aiohttp,https://pypi.org/pypi/aiohttp/3.14.5/json,https://pypi.org/simple,006;007
+aiohttp-cors,0.8.1,"Apache License, Version 2.0",https://github.com/aio-libs/aiohttp-cors,https://pypi.org/pypi/aiohttp-cors/0.8.1/json,https://pypi.org/simple,008
+aiosignal,1.4.0,Apache 2.0,https://github.com/aio-libs/aiosignal,https://pypi.org/pypi/aiosignal/1.4.0/json,https://pypi.org/simple,009
+annotated-doc,0.0.5,MIT,https://github.com/fastapi/annotated-doc,https://pypi.org/pypi/annotated-doc/0.0.5/json,https://pypi.org/simple,010
+annotated-types,0.8.0,MIT,https://github.com/annotated-types/annotated-types,https://pypi.org/pypi/annotated-types/0.8.0/json,https://pypi.org/simple,011
+anyio,4.15.1,MIT,https://anyio.readthedocs.io/en/latest/,https://pypi.org/pypi/anyio/4.15.1/json,https://pypi.org/simple,012
+apache-tvm-ffi,0.1.12,Apache 2.0,https://github.com/apache/tvm-ffi,https://pypi.org/pypi/apache-tvm-ffi/0.1.12/json,https://pypi.org/simple,013;014;015
+array-record,0.8.6,Apache-2.0,https://github.com/google/array_record,https://pypi.org/pypi/array-record/0.8.6/json,https://pypi.org/simple,002
+attrs,26.1.0,MIT,https://github.com/python-attrs/attrs,https://pypi.org/pypi/attrs/26.1.0/json,https://pypi.org/simple,016
+av,19.0.2,BSD-3-Clause,https://github.com/PyAV-Org/PyAV,https://pypi.org/pypi/av/19.0.2/json,https://pypi.org/simple,017;018
+beartype,0.23.1,MIT,https://github.com/beartype/beartype,https://pypi.org/pypi/beartype/0.23.1/json,https://pypi.org/simple,019
+braceexpand,0.1.7,MIT,https://github.com/trendels/braceexpand,https://pypi.org/pypi/braceexpand/0.1.7/json,https://pypi.org/simple,020
+causal-conv1d,1.7.0,BSD License,https://github.com/Dao-AILab/causal-conv1d,https://pypi.org/pypi/causal-conv1d/1.7.0/json,https://github.com/Dao-AILab/causal-conv1d/releases/download/v1.7.0/causal_conv1d-1.7.0%2Bcu12torch2.10cxx11abiTRUE-cp312-cp312-linux_x86_64.whl,021
+certifi,2026.10.23,MPL-2.0,https://github.com/certifi/python-certifi,https://pypi.org/pypi/certifi/2026.10.23/json,https://pypi.org/simple,022
+cffi,2.1.1,MIT-0,https://github.com/python-cffi/cffi,https://pypi.org/pypi/cffi/2.1.1/json,https://pypi.org/simple,023
+charset-normalizer,3.5.2,MIT,https://charset-normalizer.readthedocs.io/,https://pypi.org/pypi/charset-normalizer/3.5.2/json,https://pypi.org/simple,024
+chex,0.1.92,Apache Software License,https://pypi.org/pypi/chex/0.1.92/json,https://pypi.org/pypi/chex/0.1.92/json,https://pypi.org/simple,002
+click,8.5.0,BSD-3-Clause,https://github.com/pallets/click/,https://pypi.org/pypi/click/8.5.0/json,https://pypi.org/simple,025
+cloudpickle,3.1.2,BSD-3-Clause,https://github.com/cloudpipe/cloudpickle,https://pypi.org/pypi/cloudpickle/3.1.2/json,https://pypi.org/simple,026
+colorama,0.4.6,BSD License,https://github.com/tartley/colorama,https://pypi.org/pypi/colorama/0.4.6/json,https://pypi.org/simple,027
+colorful,0.5.8,MIT License,http://github.com/timofurrer/colorful,https://pypi.org/pypi/colorful/0.5.8/json,https://pypi.org/simple,028
+contextlib2,21.6.0,PSF License,http://contextlib2.readthedocs.org,https://pypi.org/pypi/contextlib2/21.6.0/json,https://pypi.org/simple,029
+cryptography,50.0.2,Apache-2.0 OR BSD-3-Clause,https://pypi.org/pypi/cryptography/50.0.2/json,https://pypi.org/pypi/cryptography/50.0.2/json,https://pypi.org/simple,030;031;032
+cuda-bindings,12.9.4,LicenseRef-NVIDIA-SOFTWARE-LICENSE,https://github.com/NVIDIA/cuda-python,https://pypi.org/pypi/cuda-bindings/12.9.4/json,https://pypi.org/simple,033
+cuda-bindings,13.0.3,LicenseRef-NVIDIA-SOFTWARE-LICENSE,https://github.com/NVIDIA/cuda-python,https://pypi.org/pypi/cuda-bindings/13.0.3/json,https://pypi.org/simple,033
+cuda-pathfinder,1.8.4,Apache-2.0,https://github.com/NVIDIA/cuda-python,https://pypi.org/pypi/cuda-pathfinder/1.8.4/json,https://pypi.org/simple,034
+cwevals,0.0.1b1,Apache-2.0,https://github.com/wandb/core,https://pypi.org/pypi/cwevals/0.0.1b1/json,https://pypi.org/simple,035
+dataclasses-json,0.6.7,MIT,https://github.com/lidatong/dataclasses-json,https://pypi.org/pypi/dataclasses-json/0.6.7/json,https://pypi.org/simple,036
+datasets,5.1.0,Apache 2.0,https://github.com/huggingface/datasets,https://pypi.org/pypi/datasets/5.1.0/json,https://pypi.org/simple,037;002
+decorator,5.3.1,BSD-2-Clause,https://pypi.org/pypi/decorator/5.3.1/json,https://pypi.org/pypi/decorator/5.3.1/json,https://pypi.org/simple,038
+dill,0.4.1,BSD-3-Clause,https://github.com/uqfoundation/dill,https://pypi.org/pypi/dill/0.4.1/json,https://pypi.org/simple,039
+distlib,0.4.4,PSF-2.0,https://github.com/pypa/distlib,https://pypi.org/pypi/distlib/0.4.4/json,https://pypi.org/simple,040
+distro,1.9.0,"Apache License, Version 2.0",https://github.com/python-distro/distro,https://pypi.org/pypi/distro/1.9.0/json,https://pypi.org/simple,003
+easydel,0.3.0,Apache-2.0,https://github.com/erfanzar/EasyDeL,https://pypi.org/pypi/easydel/0.3.0/json,https://pypi.org/simple,002
+eformer,0.0.99.12,Apache-2.0,https://github.com/erfanzar/eformer,https://pypi.org/pypi/eformer/0.0.99.12/json,https://pypi.org/simple,002
+einops,0.8.2,MIT,https://github.com/arogozhnikov/einops,https://pypi.org/pypi/einops/0.8.2/json,https://pypi.org/simple,041
+ejkernel,0.0.78,Apache-2.0,https://github.com/erfanzar/ejkernel,https://pypi.org/pypi/ejkernel/0.0.78/json,https://pypi.org/simple,002
+etils,1.14.0,Apache Software License,https://pypi.org/pypi/etils/1.14.0/json,https://pypi.org/pypi/etils/1.14.0/json,https://pypi.org/simple,002
+fastapi,0.162.0,MIT,https://github.com/fastapi/fastapi,https://pypi.org/pypi/fastapi/0.162.0/json,https://pypi.org/simple,042
+filelock,4.2.4,MIT,https://github.com/tox-dev/py-filelock,https://pypi.org/pypi/filelock/4.2.4/json,https://pypi.org/simple,043
+fla-core,0.6.0,MIT,https://github.com/fla-org/flash-linear-attention,https://pypi.org/pypi/fla-core/0.6.0/json,https://pypi.org/simple,044
+flax,0.12.3,Apache Software License,https://pypi.org/pypi/flax/0.12.3/json,https://pypi.org/pypi/flax/0.12.3/json,https://pypi.org/simple,045;046
+frozenlist,1.8.0,Apache-2.0,https://github.com/aio-libs/frozenlist,https://pypi.org/pypi/frozenlist/1.8.0/json,https://pypi.org/simple,009
+fsspec,2025.12.0,BSD-3-Clause,https://github.com/fsspec/filesystem_spec,https://pypi.org/pypi/fsspec/2025.12.0/json,https://pypi.org/simple,047
+gcsfs,2025.12.0,BSD,https://github.com/fsspec/gcsfs,https://pypi.org/pypi/gcsfs/2025.12.0/json,https://pypi.org/simple,048
+google-api-core,2.43.0,Apache 2.0,https://github.com/googleapis/google-cloud-python,https://pypi.org/pypi/google-api-core/2.43.0/json,https://pypi.org/simple,002
+google-api-python-client,2.201.0,Apache 2.0,https://github.com/googleapis/google-api-python-client/,https://pypi.org/pypi/google-api-python-client/2.201.0/json,https://pypi.org/simple,002
+google-auth,2.62.0,Apache 2.0,https://github.com/googleapis/google-cloud-python/tree/main/packages/google-auth,https://pypi.org/pypi/google-auth/2.62.0/json,https://pypi.org/simple,002
+google-auth-httplib2,0.4.4,Apache 2.0,https://github.com/googleapis/google-cloud-python/tree/main/packages/google-auth-httplib2,https://pypi.org/pypi/google-auth-httplib2/0.4.4/json,https://pypi.org/simple,002
+google-auth-oauthlib,1.5.0,Apache 2.0,https://github.com/googleapis/google-cloud-python/tree/main/packages/google-auth-oauthlib,https://pypi.org/pypi/google-auth-oauthlib/1.5.0/json,https://pypi.org/simple,002
+google-cloud-core,2.8.0,Apache 2.0,https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-core,https://pypi.org/pypi/google-cloud-core/2.8.0/json,https://pypi.org/simple,002
+google-cloud-storage,3.17.1,Apache-2.0,https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-storage,https://pypi.org/pypi/google-cloud-storage/3.17.1/json,https://pypi.org/simple,002
+google-cloud-storage-control,1.17.0,Apache-2.0,https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-storage-control,https://pypi.org/pypi/google-cloud-storage-control/1.17.0/json,https://pypi.org/simple,002
+google-crc32c,1.9.0,Apache-2.0,https://github.com/googleapis/python-crc32c,https://pypi.org/pypi/google-crc32c/1.9.0/json,https://pypi.org/simple,002
+google-resumable-media,2.11.0,Apache 2.0,https://github.com/googleapis/google-cloud-python/tree/main/packages/google-resumable-media,https://pypi.org/pypi/google-resumable-media/2.11.0/json,https://pypi.org/simple,002
+googleapis-common-protos,1.76.0,Apache-2.0,https://github.com/googleapis/google-cloud-python/tree/main/packages/googleapis-common-protos,https://pypi.org/pypi/googleapis-common-protos/1.76.0/json,https://pypi.org/simple,002
+grafanalib,0.7.1,Apache,https://github.com/weaveworks/grafanalib,https://pypi.org/pypi/grafanalib/0.7.1/json,https://pypi.org/simple,049
+grain,0.2.18,Apache-2.0,https://pypi.org/pypi/grain/0.2.18/json,https://pypi.org/pypi/grain/0.2.18/json,https://pypi.org/simple,002
+grpc-google-iam-v1,0.14.6,Apache 2.0,https://github.com/googleapis/google-cloud-python,https://pypi.org/pypi/grpc-google-iam-v1/0.14.6/json,https://pypi.org/simple,002
+grpcio,1.85.0,Apache-2.0,https://github.com/grpc/grpc,https://pypi.org/pypi/grpcio/1.85.0/json,https://pypi.org/simple,050
+grpcio-status,1.85.0,Apache-2.0,https://grpc.io,https://pypi.org/pypi/grpcio-status/1.85.0/json,https://pypi.org/simple,050
+h11,0.16.0,MIT,https://github.com/python-hyper/h11,https://pypi.org/pypi/h11/0.16.0/json,https://pypi.org/simple,051
+hf-xet,1.7.1,Apache-2.0,https://github.com/huggingface/xet-core.git,https://pypi.org/pypi/hf-xet/1.7.1/json,https://pypi.org/simple,002
+httpcore,1.0.9,BSD-3-Clause,https://github.com/encode/httpcore,https://pypi.org/pypi/httpcore/1.0.9/json,https://pypi.org/simple,052
+httplib2,0.32.1,MIT,https://github.com/httplib2/httplib2,https://pypi.org/pypi/httplib2/0.32.1/json,https://pypi.org/simple,053
+httptools,0.9.0,MIT,https://github.com/MagicStack/httptools,https://pypi.org/pypi/httptools/0.9.0/json,https://pypi.org/simple,054;055;007
+httpx,0.28.1,BSD-3-Clause,https://github.com/encode/httpx,https://pypi.org/pypi/httpx/0.28.1/json,https://pypi.org/simple,056
+huggingface-hub,1.33.0,Apache-2.0,https://github.com/huggingface/huggingface_hub,https://pypi.org/pypi/huggingface-hub/1.33.0/json,https://pypi.org/simple,002
+humanize,4.16.0,MIT,https://github.com/python-humanize/humanize,https://pypi.org/pypi/humanize/4.16.0/json,https://pypi.org/simple,057
+idna,3.20,BSD-3-Clause,https://github.com/kjd/idna,https://pypi.org/pypi/idna/3.20/json,https://pypi.org/simple,058
+jax,0.9.2,Apache-2.0,https://github.com/jax-ml/jax,https://pypi.org/pypi/jax/0.9.2/json,https://pypi.org/simple,059;002
+jaxlib,0.9.2,Apache-2.0,https://github.com/jax-ml/jax,https://pypi.org/pypi/jaxlib/0.9.2/json,https://pypi.org/simple,060
+jaxtyping,0.3.11,MIT,https://pypi.org/pypi/jaxtyping/0.3.11/json,https://pypi.org/pypi/jaxtyping/0.3.11/json,https://pypi.org/simple,061;062
+jinja2,3.1.6,BSD License,https://github.com/pallets/jinja/,https://pypi.org/pypi/jinja2/3.1.6/json,https://pypi.org/simple,063
+jsonschema,4.26.0,MIT,https://github.com/python-jsonschema/jsonschema,https://pypi.org/pypi/jsonschema/4.26.0/json,https://pypi.org/simple,064
+jsonschema-specifications,2025.9.1,MIT,https://github.com/python-jsonschema/jsonschema-specifications,https://pypi.org/pypi/jsonschema-specifications/2025.9.1/json,https://pypi.org/simple,065
+libtpu,0.0.37,Google Cloud Platform Terms of Service,https://pypi.org/pypi/libtpu/0.0.37/json,https://pypi.org/pypi/libtpu/0.0.37/json,https://pypi.org/simple,066
+liger-kernel,0.8.5,BSD-2-Clause,https://github.com/linkedin/Liger-Kernel,https://pypi.org/pypi/liger-kernel/0.8.5/json,https://pypi.org/simple,067;068;069
+markdown-it-py,4.2.0,MIT License,https://github.com/executablebooks/markdown-it-py,https://pypi.org/pypi/markdown-it-py/4.2.0/json,https://pypi.org/simple,070;071
+markupsafe,3.0.4,BSD-3-Clause,https://github.com/pallets/markupsafe/,https://pypi.org/pypi/markupsafe/3.0.4/json,https://pypi.org/simple,072
+marshmallow,3.26.2,MIT License,https://github.com/marshmallow-code/marshmallow,https://pypi.org/pypi/marshmallow/3.26.2/json,https://pypi.org/simple,073
+mdurl,0.1.2,MIT License,https://github.com/executablebooks/mdurl,https://pypi.org/pypi/mdurl/0.1.2/json,https://pypi.org/simple,074
+mergedeep,1.3.4,MIT (supplied LICENSE; metadata says UNKNOWN),https://github.com/clarketm/mergedeep,https://pypi.org/pypi/mergedeep/1.3.4/json,https://pypi.org/simple,075
+ml-collections,1.1.0,Apache Software License,https://pypi.org/pypi/ml-collections/1.1.0/json,https://pypi.org/pypi/ml-collections/1.1.0/json,https://pypi.org/simple,002
+ml-dtypes,0.6.0,Apache-2.0,https://pypi.org/pypi/ml-dtypes/0.6.0/json,https://pypi.org/pypi/ml-dtypes/0.6.0/json,https://pypi.org/simple,002;076
+mpmath,1.3.0,BSD,https://github.com/fredrik-johansson/mpmath,https://pypi.org/pypi/mpmath/1.3.0/json,https://pypi.org/simple,077
+msgpack,1.2.4,Apache-2.0,https://github.com/msgpack/msgpack-python/,https://pypi.org/pypi/msgpack/1.2.4/json,https://pypi.org/simple,078
+msgspec,0.19.0,BSD,https://github.com/jcrist/msgspec/,https://pypi.org/pypi/msgspec/0.19.0/json,https://pypi.org/simple,079
+multidict,7.2.1,Apache-2.0,https://github.com/aio-libs/multidict,https://pypi.org/pypi/multidict/7.2.1/json,https://pypi.org/simple,006
+multiprocess,0.70.19,BSD-3-Clause,https://github.com/uqfoundation/multiprocess,https://pypi.org/pypi/multiprocess/0.70.19/json,https://pypi.org/simple,080;081
+mypy-extensions,1.1.0,MIT,https://github.com/python/mypy_extensions,https://pypi.org/pypi/mypy-extensions/1.1.0/json,https://pypi.org/simple,082
+nest-asyncio,1.6.0,BSD,https://github.com/erdewit/nest_asyncio,https://pypi.org/pypi/nest-asyncio/1.6.0/json,https://pypi.org/simple,083
+networkx,3.7,BSD-3-Clause,https://github.com/networkx/networkx,https://pypi.org/pypi/networkx/3.7/json,https://pypi.org/simple,084
+ninja,1.13.2,Apache-2.0,https://github.com/scikit-build/ninja-python-distributions,https://pypi.org/pypi/ninja/1.13.2/json,https://pypi.org/simple,085
+numpy,2.3.5,BSD License,https://pypi.org/pypi/numpy/2.3.5/json,https://pypi.org/pypi/numpy/2.3.5/json,https://pypi.org/simple,086;087;088;089
+nvidia-cublas,13.1.0.3,LicenseRef-NVIDIA-Proprietary,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-cublas/13.1.0.3/json,https://pypi.org/simple,090
+nvidia-cublas-cu12,12.8.4.1,NVIDIA Proprietary Software,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-cublas-cu12/12.8.4.1/json,https://pypi.org/simple,090
+nvidia-cuda-cupti,13.0.85,LicenseRef-NVIDIA-Proprietary,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-cuda-cupti/13.0.85/json,https://pypi.org/simple,090
+nvidia-cuda-cupti-cu12,12.8.90,NVIDIA Proprietary Software,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-cuda-cupti-cu12/12.8.90/json,https://pypi.org/simple,090
+nvidia-cuda-nvrtc,13.0.88,LicenseRef-NVIDIA-Proprietary,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-cuda-nvrtc/13.0.88/json,https://pypi.org/simple,090
+nvidia-cuda-nvrtc-cu12,12.8.93,NVIDIA Proprietary Software,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-cuda-nvrtc-cu12/12.8.93/json,https://pypi.org/simple,090
+nvidia-cuda-runtime,13.0.96,LicenseRef-NVIDIA-Proprietary,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-cuda-runtime/13.0.96/json,https://pypi.org/simple,090
+nvidia-cuda-runtime-cu12,12.8.90,NVIDIA Proprietary Software,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-cuda-runtime-cu12/12.8.90/json,https://pypi.org/simple,090
+nvidia-cudnn-cu12,9.10.2.21,LicenseRef-NVIDIA-Proprietary,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-cudnn-cu12/9.10.2.21/json,https://pypi.org/simple,091
+nvidia-cudnn-cu13,9.15.1.9,LicenseRef-NVIDIA-Proprietary,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-cudnn-cu13/9.15.1.9/json,https://pypi.org/simple,091
+nvidia-cufft,12.0.0.61,LicenseRef-NVIDIA-Proprietary,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-cufft/12.0.0.61/json,https://pypi.org/simple,090
+nvidia-cufft-cu12,11.3.3.83,NVIDIA Proprietary Software,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-cufft-cu12/11.3.3.83/json,https://pypi.org/simple,090
+nvidia-cufile,1.15.1.6,LicenseRef-NVIDIA-Proprietary,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-cufile/1.15.1.6/json,https://pypi.org/simple,090
+nvidia-cufile-cu12,1.13.1.3,NVIDIA Proprietary Software,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-cufile-cu12/1.13.1.3/json,https://pypi.org/simple,090
+nvidia-curand,10.4.0.35,LicenseRef-NVIDIA-Proprietary,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-curand/10.4.0.35/json,https://pypi.org/simple,090
+nvidia-curand-cu12,10.3.9.90,NVIDIA Proprietary Software,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-curand-cu12/10.3.9.90/json,https://pypi.org/simple,090
+nvidia-cusolver,12.0.4.66,LicenseRef-NVIDIA-Proprietary,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-cusolver/12.0.4.66/json,https://pypi.org/simple,090
+nvidia-cusolver-cu12,11.7.3.90,NVIDIA Proprietary Software,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-cusolver-cu12/11.7.3.90/json,https://pypi.org/simple,090
+nvidia-cusparse,12.6.3.3,LicenseRef-NVIDIA-Proprietary,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-cusparse/12.6.3.3/json,https://pypi.org/simple,090
+nvidia-cusparse-cu12,12.5.8.93,NVIDIA Proprietary Software,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-cusparse-cu12/12.5.8.93/json,https://pypi.org/simple,090
+nvidia-cusparselt-cu12,0.7.1,NVIDIA Proprietary Software,https://developer.nvidia.com/cusparselt,https://pypi.org/pypi/nvidia-cusparselt-cu12/0.7.1/json,https://pypi.org/simple,092
+nvidia-cusparselt-cu13,0.8.0,NVIDIA Proprietary Software,https://developer.nvidia.com/cusparselt,https://pypi.org/pypi/nvidia-cusparselt-cu13/0.8.0/json,https://pypi.org/simple,092
+nvidia-nccl-cu12,2.27.5,BSD-3-Clause,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-nccl-cu12/2.27.5/json,https://pypi.org/simple,093
+nvidia-nccl-cu13,2.28.9,LicenseRef-NVIDIA-Proprietary,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-nccl-cu13/2.28.9/json,https://pypi.org/simple,093
+nvidia-nvjitlink,13.0.88,LicenseRef-NVIDIA-Proprietary,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-nvjitlink/13.0.88/json,https://pypi.org/simple,090
+nvidia-nvjitlink-cu12,12.8.93,NVIDIA Proprietary Software,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-nvjitlink-cu12/12.8.93/json,https://pypi.org/simple,090
+nvidia-nvshmem-cu12,3.4.5,LicenseRef-NVIDIA-Proprietary,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-nvshmem-cu12/3.4.5/json,https://pypi.org/simple,090
+nvidia-nvshmem-cu13,3.4.5,LicenseRef-NVIDIA-Proprietary,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-nvshmem-cu13/3.4.5/json,https://pypi.org/simple,090
+nvidia-nvtx,13.0.85,Apache 2.0,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-nvtx/13.0.85/json,https://pypi.org/simple,094
+nvidia-nvtx-cu12,12.8.90,Apache 2.0,https://developer.nvidia.com/cuda-zone,https://pypi.org/pypi/nvidia-nvtx-cu12/12.8.90/json,https://pypi.org/simple,094
+oauthlib,4.0.0,BSD-3-Clause,https://github.com/oauthlib/oauthlib,https://pypi.org/pypi/oauthlib/4.0.0/json,https://pypi.org/simple,095
+opencensus,0.11.4,Apache-2.0,https://github.com/census-instrumentation/opencensus-python,https://pypi.org/pypi/opencensus/0.11.4/json,https://pypi.org/simple,002
+opencensus-context,0.1.3,Apache-2.0,https://github.com/census-instrumentation/opencensus-python/tree/master/context/opencensus-context,https://pypi.org/pypi/opencensus-context/0.1.3/json,https://pypi.org/simple,002
+opentelemetry-api,1.45.1,Apache-2.0,https://github.com/open-telemetry/opentelemetry-python,https://pypi.org/pypi/opentelemetry-api/1.45.1/json,https://pypi.org/simple,002
+opentelemetry-exporter-http-transport,0.66b1,Apache-2.0,https://github.com/open-telemetry/opentelemetry-python,https://pypi.org/pypi/opentelemetry-exporter-http-transport/0.66b1/json,https://pypi.org/simple,002
+opentelemetry-exporter-otlp-common,0.66b1,Apache-2.0,https://github.com/open-telemetry/opentelemetry-python,https://pypi.org/pypi/opentelemetry-exporter-otlp-common/0.66b1/json,https://pypi.org/simple,002
+opentelemetry-exporter-otlp-proto-common,1.45.1,Apache-2.0,https://github.com/open-telemetry/opentelemetry-python,https://pypi.org/pypi/opentelemetry-exporter-otlp-proto-common/1.45.1/json,https://pypi.org/simple,002
+opentelemetry-exporter-otlp-proto-http,1.45.1,Apache-2.0,https://github.com/open-telemetry/opentelemetry-python,https://pypi.org/pypi/opentelemetry-exporter-otlp-proto-http/1.45.1/json,https://pypi.org/simple,002
+opentelemetry-exporter-prometheus,0.66b1,Apache-2.0,https://github.com/open-telemetry/opentelemetry-python,https://pypi.org/pypi/opentelemetry-exporter-prometheus/0.66b1/json,https://pypi.org/simple,002
+opentelemetry-proto,1.45.1,Apache-2.0,https://github.com/open-telemetry/opentelemetry-python,https://pypi.org/pypi/opentelemetry-proto/1.45.1/json,https://pypi.org/simple,002
+opentelemetry-sdk,1.45.1,Apache-2.0,https://github.com/open-telemetry/opentelemetry-python,https://pypi.org/pypi/opentelemetry-sdk/1.45.1/json,https://pypi.org/simple,002
+opentelemetry-semantic-conventions,0.66b1,Apache-2.0,https://github.com/open-telemetry/opentelemetry-python,https://pypi.org/pypi/opentelemetry-semantic-conventions/0.66b1/json,https://pypi.org/simple,002
+opt-einsum,3.4.0,MIT,https://pypi.org/pypi/opt-einsum/3.4.0/json,https://pypi.org/pypi/opt-einsum/3.4.0/json,https://pypi.org/simple,096
+optax,0.2.8,Apache Software License,https://pypi.org/pypi/optax/0.2.8/json,https://pypi.org/pypi/optax/0.2.8/json,https://pypi.org/simple,002
+orbax-checkpoint,0.12.8,Apache Software License,https://pypi.org/pypi/orbax-checkpoint/0.12.8/json,https://pypi.org/pypi/orbax-checkpoint/0.12.8/json,https://pypi.org/simple,002
+orbax-export,0.0.8,Apache Software License,https://pypi.org/pypi/orbax-export/0.0.8/json,https://pypi.org/pypi/orbax-export/0.0.8/json,https://pypi.org/simple,002
+packaging,26.3,Apache-2.0 OR BSD-2-Clause,https://github.com/pypa/packaging,https://pypi.org/pypi/packaging/26.3/json,https://pypi.org/simple,097;098;099
+pandas,3.1.0,BSD-3-Clause,https://pypi.org/pypi/pandas/3.1.0/json,https://pypi.org/pypi/pandas/3.1.0/json,https://pypi.org/simple,100;101;102;103;104;105;106;107;108;005;109;110;111;112;113;114;115;116;117
+partial-json-parser,0.2.1.1.post7,MIT,https://pypi.org/pypi/partial-json-parser/0.2.1.1.post7/json,https://pypi.org/pypi/partial-json-parser/0.2.1.1.post7/json,https://pypi.org/simple,118
+pillow,13.0.0,MIT-CMU,https://github.com/python-pillow/Pillow,https://pypi.org/pypi/pillow/13.0.0/json,https://pypi.org/simple,119
+platformdirs,4.13.7,MIT,https://github.com/tox-dev/platformdirs,https://pypi.org/pypi/platformdirs/4.13.7/json,https://pypi.org/simple,120
+plum-dispatch,2.3.2,MIT,https://pypi.org/pypi/plum-dispatch/2.3.2/json,https://pypi.org/pypi/plum-dispatch/2.3.2/json,https://pypi.org/simple,121
+portpicker,1.6.0,Apache 2.0,https://github.com/google/python_portpicker,https://pypi.org/pypi/portpicker/1.6.0/json,https://pypi.org/simple,098
+prometheus-client,0.26.0,Apache-2.0 AND BSD-2-Clause,https://github.com/prometheus/client_python,https://pypi.org/pypi/prometheus-client/0.26.0/json,https://pypi.org/simple,002;122
+propcache,0.5.4,Apache-2.0,https://github.com/aio-libs/propcache,https://pypi.org/pypi/propcache/0.5.4/json,https://pypi.org/simple,002;123
+proto-plus,1.29.0,Apache 2.0,https://github.com/googleapis/google-cloud-python,https://pypi.org/pypi/proto-plus/1.29.0/json,https://pypi.org/simple,002
+protobuf,7.36.2,3-Clause BSD License,https://developers.google.com/protocol-buffers/,https://pypi.org/pypi/protobuf/7.36.2/json,https://pypi.org/simple,124
+psutil,7.2.2,BSD-3-Clause,https://github.com/giampaolo/psutil,https://pypi.org/pypi/psutil/7.2.2/json,https://pypi.org/simple,125
+py-spy,0.4.2,MIT License,https://github.com/benfred/py-spy,https://pypi.org/pypi/py-spy/0.4.2/json,https://pypi.org/simple,126
+pyarrow,26.0.0,Apache-2.0,https://github.com/apache/arrow,https://pypi.org/pypi/pyarrow/26.0.0/json,https://pypi.org/simple,127;128
+pyasn1,0.6.5,BSD-2-Clause,https://github.com/pyasn1/pyasn1,https://pypi.org/pypi/pyasn1/0.6.5/json,https://pypi.org/simple,129
+pyasn1-modules,0.4.2,BSD,https://github.com/pyasn1/pyasn1-modules,https://pypi.org/pypi/pyasn1-modules/0.4.2/json,https://pypi.org/simple,129
+pycparser,3.12,BSD-3-Clause,https://github.com/eliben/pycparser,https://pypi.org/pypi/pycparser/3.12/json,https://pypi.org/simple,130
+pydantic,2.14.1,MIT,https://github.com/pydantic/pydantic,https://pypi.org/pypi/pydantic/2.14.1/json,https://pypi.org/simple,131
+pydantic-core,2.50.1,MIT,https://github.com/pydantic/pydantic/tree/main/pydantic-core,https://pypi.org/pypi/pydantic-core/2.50.1/json,https://pypi.org/simple,132
+pygments,2.21.0,BSD-2-Clause,https://github.com/pygments/pygments,https://pypi.org/pypi/pygments/2.21.0/json,https://pypi.org/simple,133;134
+pyparsing,3.3.3,MIT,https://github.com/pyparsing/pyparsing.git,https://pypi.org/pypi/pyparsing/3.3.3/json,https://pypi.org/simple,135
+python-dateutil,3.0.0,Dual License,https://github.com/dateutil/dateutil,https://pypi.org/pypi/python-dateutil/3.0.0/json,https://pypi.org/simple,102
+python-discovery,1.6.7,MIT,https://github.com/tox-dev/python-discovery,https://pypi.org/pypi/python-discovery/1.6.7/json,https://pypi.org/simple,136
+python-dotenv,1.2.4,BSD-3-Clause,https://github.com/theskumar/python-dotenv,https://pypi.org/pypi/python-dotenv/1.2.4/json,https://pypi.org/simple,137
+pyyaml,6.0.3,MIT,https://github.com/yaml/pyyaml,https://pypi.org/pypi/pyyaml/6.0.3/json,https://pypi.org/simple,138
+pyzmq,27.2.0,BSD-3-Clause,https://github.com/zeromq/pyzmq,https://pypi.org/pypi/pyzmq/27.2.0/json,https://pypi.org/simple,139;140;002;141
+ray,2.54.0,Apache 2.0,https://github.com/ray-project/ray,https://pypi.org/pypi/ray/2.54.0/json,https://pypi.org/simple,142;005;143;144;009;016;145;146;002;123;147;027;125
+referencing,0.37.0,MIT,https://github.com/python-jsonschema/referencing,https://pypi.org/pypi/referencing/0.37.0/json,https://pypi.org/simple,065
+regex,2026.9.29,Apache-2.0 AND CNRI-Python,https://github.com/mrabarnett/mrab-regex,https://pypi.org/pypi/regex/2026.9.29/json,https://pypi.org/simple,148
+requests,2.34.2,Apache-2.0,https://github.com/psf/requests,https://pypi.org/pypi/requests/2.34.2/json,https://pypi.org/simple,149;150
+requests-oauthlib,2.0.0,ISC,https://github.com/requests/requests-oauthlib,https://pypi.org/pypi/requests-oauthlib/2.0.0/json,https://pypi.org/simple,151
+rich,15.0.0,MIT,https://github.com/Textualize/rich,https://pypi.org/pypi/rich/15.0.0/json,https://pypi.org/simple,152
+rpds-py,2026.9.1,MIT,https://github.com/crate-py/rpds,https://pypi.org/pypi/rpds-py/2026.9.1/json,https://pypi.org/simple,153
+safetensors,0.8.0,Apache Software License,https://github.com/huggingface/safetensors,https://pypi.org/pypi/safetensors/0.8.0/json,https://pypi.org/simple,002
+scipy,1.18.1,BSD License,https://pypi.org/pypi/scipy/1.18.1/json,https://pypi.org/pypi/scipy/1.18.1/json,https://pypi.org/simple,154;155;156;157;158
+sentencepiece,0.2.2,Apache-2.0,https://github.com/google/sentencepiece,https://pypi.org/pypi/sentencepiece/0.2.2/json,https://pypi.org/simple,002
+setuptools,84.2.1,MIT,https://github.com/pypa/setuptools,https://pypi.org/pypi/setuptools/84.2.1/json,https://pypi.org/simple,159;160;161;162;163;164;097;098;099;120;165;166;167;168
+shellingham,1.5.4,ISC License,https://github.com/sarugaku/shellingham,https://pypi.org/pypi/shellingham/1.5.4/json,https://pypi.org/simple,169
+simplejson,4.2.0,MIT OR AFL-2.1,https://github.com/simplejson/simplejson,https://pypi.org/pypi/simplejson/4.2.0/json,https://pypi.org/simple,170
+six,1.17.0,MIT,https://github.com/benjaminp/six,https://pypi.org/pypi/six/1.17.0/json,https://pypi.org/simple,171
+smart-open,9.0.0,MIT License,https://github.com/piskvorky/smart_open,https://pypi.org/pypi/smart-open/9.0.0/json,https://pypi.org/simple,172
+sniffio,1.3.1,MIT OR Apache-2.0,https://github.com/python-trio/sniffio,https://pypi.org/pypi/sniffio/1.3.1/json,https://pypi.org/simple,173;002;174
+starlette,1.10.0,BSD-3-Clause,https://github.com/Kludex/starlette,https://pypi.org/pypi/starlette/1.10.0/json,https://pypi.org/simple,175
+sympy,1.14.0,BSD,https://github.com/sympy/sympy,https://pypi.org/pypi/sympy/1.14.0/json,https://pypi.org/simple,176;177;178
+tblib,3.0.0,BSD-2-Clause,https://github.com/ionelmc/python-tblib,https://pypi.org/pypi/tblib/3.0.0/json,https://pypi.org/simple,179
+tensorstore,0.1.86,Apache-2.0,https://github.com/google/tensorstore,https://pypi.org/pypi/tensorstore/0.1.86/json,https://pypi.org/simple,180;181;182
+tilelang,0.1.15,MIT,https://pypi.org/pypi/tilelang/0.1.15/json,https://pypi.org/pypi/tilelang/0.1.15/json,https://pypi.org/simple,183
+tokenizers,0.22.2,Apache Software License,https://github.com/huggingface/tokenizers,https://pypi.org/pypi/tokenizers/0.22.2/json,https://pypi.org/simple,002
+toolz,1.2.0,BSD-3-Clause,https://pypi.org/pypi/toolz/1.2.0/json,https://pypi.org/pypi/toolz/1.2.0/json,https://pypi.org/simple,184
+torch,2.8.0,BSD-3-Clause,https://github.com/pytorch/pytorch,https://pypi.org/pypi/torch/2.8.0/json,https://download.pytorch.org/whl/cpu,185
+torch,2.8.0+cpu,BSD-3-Clause,https://github.com/pytorch/pytorch,https://pypi.org/pypi/torch/2.8.0/json,https://download.pytorch.org/whl/cpu,186;187
+torch,2.10.0,BSD-3-Clause,https://github.com/pytorch/pytorch,https://pypi.org/pypi/torch/2.10.0/json,https://pypi.org/simple,188;187
+torch,2.10.0+cu128,BSD-3-Clause,https://github.com/pytorch/pytorch,https://pypi.org/pypi/torch/2.10.0/json,https://download.pytorch.org/whl/cu128,189
+torch,2.10.0+cu130,BSD-3-Clause,https://github.com/pytorch/pytorch,https://pypi.org/pypi/torch/2.10.0/json,https://download.pytorch.org/whl/cu130,188;187
+torch-c-dlpack-ext,0.1.5,Apache-2.0,https://pypi.org/pypi/torch-c-dlpack-ext/0.1.5/json,https://pypi.org/pypi/torch-c-dlpack-ext/0.1.5/json,https://pypi.org/simple,003;190
+torchvision,0.23.0,BSD,https://github.com/pytorch/vision,https://pypi.org/pypi/torchvision/0.23.0/json,https://download.pytorch.org/whl/cpu,191
+torchvision,0.23.0+cpu,BSD,https://github.com/pytorch/vision,https://pypi.org/pypi/torchvision/0.23.0/json,https://download.pytorch.org/whl/cpu,191
+torchvision,0.25.0,BSD,https://github.com/pytorch/vision,https://pypi.org/pypi/torchvision/0.25.0/json,https://pypi.org/simple,191
+torchvision,0.25.0+cu128,BSD,https://github.com/pytorch/vision,https://pypi.org/pypi/torchvision/0.25.0/json,https://download.pytorch.org/whl/cu128,191
+torchvision,0.25.0+cu130,BSD,https://github.com/pytorch/vision,https://pypi.org/pypi/torchvision/0.25.0/json,https://download.pytorch.org/whl/cu130,191
+tqdm,4.70.1,MPL-2.0 AND MIT,https://pypi.org/pypi/tqdm/4.70.1/json,https://pypi.org/pypi/tqdm/4.70.1/json,https://pypi.org/simple,192
+transformers,5.5.4,Apache 2.0 License,https://github.com/huggingface/transformers,https://pypi.org/pypi/transformers/5.5.4/json,https://pypi.org/simple,193
+treescope,0.1.10,Apache Software License,https://pypi.org/pypi/treescope/0.1.10/json,https://pypi.org/pypi/treescope/0.1.10/json,https://pypi.org/simple,002
+triton,3.4.0,MIT License,https://github.com/triton-lang/triton/,https://pypi.org/pypi/triton/3.4.0/json,https://pypi.org/simple,194
+triton,3.6.0,MIT License,https://github.com/triton-lang/triton/,https://pypi.org/pypi/triton/3.6.0/json,https://download.pytorch.org/whl/cu130,194
+triton,3.6.0,MIT License,https://github.com/triton-lang/triton/,https://pypi.org/pypi/triton/3.6.0/json,https://pypi.org/simple,194
+typer,0.27.3,MIT,https://github.com/fastapi/typer,https://pypi.org/pypi/typer/0.27.3/json,https://pypi.org/simple,195;025
+typing-extensions,4.16.0,PSF-2.0,https://github.com/python/typing_extensions,https://pypi.org/pypi/typing-extensions/4.16.0/json,https://pypi.org/simple,005
+typing-inspect,0.9.0,MIT,https://github.com/ilevkivskyi/typing_inspect,https://pypi.org/pypi/typing-inspect/0.9.0/json,https://pypi.org/simple,196
+typing-inspection,0.4.4,MIT,https://github.com/pydantic/typing-inspection,https://pypi.org/pypi/typing-inspection/0.4.4/json,https://pypi.org/simple,197
+tzdata,2026.6,Apache-2.0,https://github.com/python/tzdata,https://pypi.org/pypi/tzdata/2026.6/json,https://pypi.org/simple,198;002
+uritemplate,4.2.0,BSD 3-Clause OR Apache-2.0,https://github.com/python-hyper/uritemplate,https://pypi.org/pypi/uritemplate/4.2.0/json,https://pypi.org/simple,199
+urllib3,2.8.0,MIT,https://urllib3.readthedocs.io,https://pypi.org/pypi/urllib3/2.8.0/json,https://pypi.org/simple,200
+uvicorn,0.54.0,BSD-3-Clause,https://github.com/Kludex/uvicorn,https://pypi.org/pypi/uvicorn/0.54.0/json,https://pypi.org/simple,201
+uvloop,0.21.0,MIT License,https://pypi.org/pypi/uvloop/0.21.0/json,https://pypi.org/pypi/uvloop/0.21.0/json,https://pypi.org/simple,202;203
+virtualenv,21.15.1,MIT,https://github.com/pypa/virtualenv,https://pypi.org/pypi/virtualenv/21.15.1/json,https://pypi.org/simple,204;205
+wadler-lindig,0.1.8,Apache-2.0,https://pypi.org/pypi/wadler-lindig/0.1.8/json,https://pypi.org/pypi/wadler-lindig/0.1.8/json,https://pypi.org/simple,002
+wandb,0.31.0,MIT,https://github.com/wandb/wandb,https://pypi.org/pypi/wandb/0.31.0/json,https://pypi.org/simple,206
+watchfiles,1.3.0,MIT,https://github.com/samuelcolvin/watchfiles,https://pypi.org/pypi/watchfiles/1.3.0/json,https://pypi.org/simple,207
+websockets,17.3,BSD-3-Clause,https://github.com/python-websockets/websockets,https://pypi.org/pypi/websockets/17.3/json,https://pypi.org/simple,208
+wrapt,2.5.1,BSD-2-Clause,https://github.com/GrahamDumpleton/wrapt,https://pypi.org/pypi/wrapt/2.5.1/json,https://pypi.org/simple,209
+xxhash,4.0.2,BSD-2-Clause,https://github.com/ifduyue/python-xxhash,https://pypi.org/pypi/xxhash/4.0.2/json,https://pypi.org/simple,210
+yarl,1.25.1,Apache-2.0,https://github.com/aio-libs/yarl,https://pypi.org/pypi/yarl/1.25.1/json,https://pypi.org/simple,002;123
+z3-solver,4.15.4.0,MIT License,https://github.com/Z3Prover/z3,https://pypi.org/pypi/z3-solver/4.15.4.0/json,https://pypi.org/simple,211
+zipp,4.1.2,MIT,https://github.com/jaraco/zipp,https://pypi.org/pypi/zipp/4.1.2/json,https://pypi.org/simple,162
+zstandard,0.25.0,BSD-3-Clause,https://github.com/indygreg/python-zstandard,https://pypi.org/pypi/zstandard/0.25.0/json,https://pypi.org/simple,212

@@ -1,0 +1,40 @@
+models:
+  4b:
+    repo: Qwen/Qwen3.5-4B
+    revision: 851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a
+  27b:
+    repo: Qwen/Qwen3.5-27B
+    revision: fc05daec18b0a78c049392ed2e771dde82bdf654
+codec:
+  repo: nvidia/Cosmos-0.1-Tokenizer-DV8x8x8
+  revision: bdcf9e0acc6b63074673eaed914eaaeb4894b5f3
+  vocabulary: 64000
+dataset:
+  repo: quchenyuan/UCF101-ZIP
+  revision: 04d4e5ca1dc93606cb58752b0c08331e598743a4
+  archive: UCF-101.zip
+  split_archive: UCF101TrainTestSplits-RecognitionTask.zip
+  split: 1
+  history_frames: 8
+  future_frames: 16
+  fps: 8
+  resolution: 256
+vision:
+  frozen: true
+  merger_frozen: true
+  input: ordered_images
+  include_forward_in_timing: true
+context: null  # Use exactly the native image/text prefix plus 2048 video-token inputs.
+global_batch: 128
+seed: 0
+lr: 0.00005
+betas: [0.9, 0.95]
+eps: 0.00000001
+weight_decay: 0.01
+grad_clip: 1.0
+warmup_updates: 100
+schedule_updates: 10000
+min_lr_ratio: 0.1
+timing_warmup_updates: 10
+measured_seconds: 7200
+probe_examples: 128

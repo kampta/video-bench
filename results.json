@@ -1,0 +1,187 @@
+{
+  "configuration": {
+    "models": {
+      "4b": {
+        "repo": "Qwen/Qwen3.5-4B",
+        "revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a"
+      },
+      "27b": {
+        "repo": "Qwen/Qwen3.5-27B",
+        "revision": "fc05daec18b0a78c049392ed2e771dde82bdf654"
+      }
+    },
+    "codec": {
+      "repo": "nvidia/Cosmos-0.1-Tokenizer-DV8x8x8",
+      "revision": "bdcf9e0acc6b63074673eaed914eaaeb4894b5f3",
+      "vocabulary": 64000
+    },
+    "dataset": {
+      "repo": "quchenyuan/UCF101-ZIP",
+      "revision": "04d4e5ca1dc93606cb58752b0c08331e598743a4",
+      "archive": "UCF-101.zip",
+      "split_archive": "UCF101TrainTestSplits-RecognitionTask.zip",
+      "split": 1,
+      "history_frames": 8,
+      "future_frames": 16,
+      "fps": 8,
+      "resolution": 256
+    },
+    "vision": {
+      "frozen": true,
+      "merger_frozen": true,
+      "input": "ordered_images",
+      "include_forward_in_timing": true
+    },
+    "context": null,
+    "global_batch": 128,
+    "seed": 0,
+    "lr": 5e-05,
+    "betas": [
+      0.9,
+      0.95
+    ],
+    "eps": 1e-08,
+    "weight_decay": 0.01,
+    "grad_clip": 1.0,
+    "warmup_updates": 100,
+    "schedule_updates": 10000,
+    "min_lr_ratio": 0.1,
+    "timing_warmup_updates": 10,
+    "measured_seconds": 7200,
+    "probe_examples": 128
+  },
+  "dataset_counts": {
+    "train": 8976,
+    "val": 3495
+  },
+  "dataset_classes": {
+    "train": 101,
+    "val": 101
+  },
+  "target_file_sha256": {
+    "train": "f4ea778b52f542f7da8be065c4121bca449d30b4db3ad3a1282148f5d90c6d24",
+    "val": "f20ae7a3fa4064a034e9f0b5e52fdba115d5aa3aa8e50c64403f80b3e1f0fe0e"
+  },
+  "reference_data_producer": {
+    "torch": "2.8.0+cu129",
+    "hardware": "NVIDIA GB10"
+  },
+  "runs": [
+    {
+      "model": "Qwen3.5-4B",
+      "fleet": "1 H100",
+      "region": "us-central1",
+      "market": "SPOT",
+      "chip_hour_USD_reference": 6.538448,
+      "independent_measured_runs": 1,
+      "N": 318,
+      "updates": 307,
+      "timed_updates": 308,
+      "late_updates": 1,
+      "measured_seconds": 7211.303388766986,
+      "seconds_per_update": 23.413322690801902,
+      "reference_MFU": 0.3448301236615837,
+      "train_0": 15.492391407489777,
+      "train_100": 9.940659642219543,
+      "train_N": 8.53933435678482,
+      "val_N": 9.025245606899261,
+      "timing_stdev_seconds": 0.0681781336212513,
+      "devices": 1,
+      "microbatch_per_device": 8,
+      "parameter_replicas": 1,
+      "parameter_shards": 1,
+      "trainable_parameters": 4369593856
+    },
+    {
+      "model": "Qwen3.5-4B",
+      "fleet": "8 v5p",
+      "region": "us-east5",
+      "market": "SPOT",
+      "chip_hour_USD_reference": 0.903271,
+      "independent_measured_runs": 1,
+      "N": 982,
+      "updates": 971,
+      "timed_updates": 972,
+      "late_updates": 1,
+      "measured_seconds": 7205.06426858902,
+      "seconds_per_update": 7.412617560276769,
+      "reference_MFU": 0.2933528241727879,
+      "train_0": 15.492713928222656,
+      "train_100": 9.918134689331055,
+      "train_N": 3.5905754566192627,
+      "val_N": 11.864931106567383,
+      "timing_stdev_seconds": 0.07623156906327302,
+      "devices": 8,
+      "microbatch_per_device": 16,
+      "parameter_replicas": 8,
+      "parameter_shards": 1,
+      "trainable_parameters": 4369593856
+    },
+    {
+      "model": "Qwen3.5-27B",
+      "fleet": "8 H100",
+      "region": "europe-west2",
+      "market": "SPOT",
+      "chip_hour_USD_reference": 2.201512,
+      "independent_measured_runs": 1,
+      "N": 388,
+      "updates": 377,
+      "timed_updates": 378,
+      "late_updates": 1,
+      "measured_seconds": 7206.854172794002,
+      "seconds_per_update": 19.065751779878312,
+      "reference_MFU": 0.3398784630240835,
+      "train_0": 14.435504257678986,
+      "train_100": 10.822562038898468,
+      "train_N": 8.930257439613342,
+      "val_N": 10.837931334972382,
+      "timing_stdev_seconds": 0.1052065617624742,
+      "devices": 8,
+      "microbatch_per_device": 8,
+      "parameter_replicas": 1,
+      "parameter_shards": 8,
+      "trainable_parameters": 25952285184
+    },
+    {
+      "model": "Qwen3.5-27B",
+      "fleet": "8 v5p",
+      "region": "us-east5",
+      "market": "SPOT",
+      "chip_hour_USD_reference": 0.903271,
+      "independent_measured_runs": 1,
+      "N": 201,
+      "updates": 190,
+      "timed_updates": 191,
+      "late_updates": 1,
+      "measured_seconds": 7224.930038452148,
+      "seconds_per_update": 37.82685884006361,
+      "reference_MFU": 0.3691143312883237,
+      "train_0": 14.43605661392212,
+      "train_100": 10.012901067733765,
+      "train_N": 9.320874452590942,
+      "val_N": 9.399754285812378,
+      "timing_stdev_seconds": 0.036059753064915476,
+      "devices": 8,
+      "microbatch_per_device": 4,
+      "parameter_replicas": 1,
+      "parameter_shards": 8,
+      "trainable_parameters": 25952285184
+    }
+  ],
+  "prepared_data": {
+    "repo": "kampta/video-bench-ucf101",
+    "url": "https://huggingface.co/datasets/kampta/video-bench-ucf101",
+    "revision": "1beef16d6a9132e21565a891edffacb01de92a44",
+    "access": "Public; no login required",
+    "bytes": 21033085526,
+    "files": [
+      "dataset.json",
+      "train/history.npy",
+      "train/targets.npy",
+      "train/anchors.npy",
+      "val/history.npy",
+      "val/targets.npy",
+      "val/anchors.npy"
+    ]
+  }
+}
